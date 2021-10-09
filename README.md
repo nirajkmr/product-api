@@ -2,6 +2,7 @@
 
 
 **Problem Statement:**
+***************************
 
 We would like you to create a REST API for managing products. The API should allow the following actions:
 
