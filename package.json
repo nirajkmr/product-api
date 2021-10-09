@@ -1,0 +1,22 @@
+{
+  "name": "product-repo",
+  "version": "1.0.0",
+  "description": "Product repo for managing the product inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "lodash": "^4.0.1",
+    "mysql": "^2.0.1",
+    "package.json": "^2.0.1",
+    "querystring": "^0.2.1"
+  }
+}
