@@ -28,3 +28,8 @@ products will be returned, but the request can also specify a custom number of p
 included. A specific currency can also be specified in which case all the prices should be returned in that currency.
 
 When a product is deleted, it should no longer be included in any of the API responses but should remain in the database for audit purposes.
+
+Tech Stack:
+* NodeJs (Express JS)
+* MySQL
+
